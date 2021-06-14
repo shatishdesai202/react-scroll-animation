@@ -1,0 +1,11 @@
+.scrollable {
+  margin: 10px;
+  height: 100px;
+  overflow-y: scroll;
+}
+
+p {
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
