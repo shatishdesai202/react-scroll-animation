@@ -4,15 +4,6 @@ import "./App.css";
 
 function App() {
   const [result, setResult] = useState();
-
-  const firstElement = useRef();
-  const secondElement = useRef();
-  const thirdElement = useRef();
-  const fourthElement = useRef();
-  const fifthElement = useRef();
-  const sixthElement = useRef();
-  const seventhElement = useRef();
-  const eightElement = useRef();
   const scrollDiv = useRef();
   const displayLastElement = useRef();
 
